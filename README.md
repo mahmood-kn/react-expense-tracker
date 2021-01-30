@@ -8,4 +8,4 @@ This is **React** version of [Transaction with vanilla JS](https://github.com/ma
 
 ### Live demo
 
-Click [here](https://mahmood-kn.github.io/react-expense-tracker/ 'Form Validation') to see the live demo of this project.
+Click [here](https://mahmood-kn.github.io/react-expense-tracker/ 'Expense Tracker') to see the live demo of this project.
